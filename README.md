@@ -1,36 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Aishwarya%20Joshi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Computer%20Vision%20%7C%20RAG%20%26%20Agentic%20AI&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=220&section=header&text=Aishwarya%20Joshi&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=🤖%20AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20RAG%20%26%20Agentic%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+actually+ship+🚀;Computer+Vision+%7C+RAG+%7C+Agentic+AI;From+model+training+to+production+deployment;Open+to+AI%2FML+roles+from+June+2026+💼" alt="Typing SVG" />
 </div>
 
 ---
 
-### 👩‍💻 About Me
-
-- 🎓 Final-year B.E. ECE (AI/ML Specialization) @ VTU — CGPA 9.41
-- 🔭 Currently building at **GlowLogics Solutions** as an AI/ML Engineer Intern
-- 🚀 I build end-to-end AI systems — from model training to production deployment
-- ✍️ I write about ML on [Medium](https://medium.com/@aishwaryajoshi554)
-- 📍 Bengaluru, India
-- 💼 Open to **AI/ML Engineer** roles from June 2026
+## 🧠 Hello, World!
+```python
+aishwarya = {
+    "role"       : "AI/ML Engineer",
+    "education"  : "B.E. ECE (AI/ML) @ VTU | CGPA 9.41",
+    "currently"  : "AI/ML Intern @ GlowLogics Solutions",
+    "building"   : ["Computer Vision", "RAG Agents", "Agentic AI Systems"],
+    "writing"    : "Medium — @aishwaryajoshi554",
+    "location"   : "Bengaluru, India 🇮🇳",
+    "available"  : "June 2026 👀",
+}
+```
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
+**AI / ML / DL**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Gemini](https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+**Deployment & Backend**
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+**Data & Visualization**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
@@ -38,28 +58,47 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Stack | Live |
-|--------|-------------|-------|------|
-| 🔩 **SteelSense AI** | Industrial defect detection + AI inspection agent | YOLOv8, Gemini API, Flask, Docker, Supabase | [🤗 HF Spaces](https://huggingface.co/spaces/AishwaryaNJ/steelsense-ai) |
-| 📄 **ArXiv RAG Agent** | Semantic Q&A over live research papers | LangChain, FAISS, Hugging Face | [🌐 Vercel](https://rag-arxiv-chatbot.vercel.app) |
-| 🧠 **BurnoutIQ** | Workplace burnout risk predictor | Scikit-Learn, SVM, Random Forest, Streamlit | [🌐 Streamlit](https://burnoutiq.streamlit.app) |
-
----
-
-### 📊 GitHub Stats
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aishwarya-J05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya-J05&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+| 🔩 SteelSense AI | 📄 ArXiv RAG Agent | 🧠 BurnoutIQ |
+|---|---|---|
+| Industrial defect detection + AI inspection agent | Semantic Q&A over live research papers | Workplace burnout risk predictor |
+| YOLOv8 · Gemini API · Flask · Docker · Supabase | LangChain · FAISS · HuggingFace · Vercel | Scikit-Learn · SVM · Random Forest · Streamlit |
+| mAP50 ≈ 0.88 · Production-ready | End-to-end RAG pipeline | EDA + Model Benchmarking |
+| [🤗 Live Demo](https://huggingface.co/spaces/AishwaryaNJ/steelsense-ai) | [🌐 Live Demo](https://rag-arxiv-chatbot.vercel.app) | [🌐 Live Demo](https://burnoutiq.streamlit.app) |
 
 </div>
 
 ---
 
-### 🌐 Connect
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Aishwarya-J05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya-J05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" height="170"/>
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aishwarya-J05&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00D4FF&currStreakLabel=6C63FF" width="60%"/>
+</div>
+
+---
+
+## 📝 Latest on Medium
+
+<!-- BLOG-POST-LIST:START -->
+> ✍️ I write about AI/ML, computer vision, and building real-world ML systems.
+> 
+> 👉 [Read my articles on Medium →](https://medium.com/@aishwaryajoshi554)
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+## 🌐 Connect with Me
 
 <div align="center">
 
@@ -68,8 +107,10 @@
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aishwaryajoshi554)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishwaryajoshi554@gmail.com)
 
+![Profile Views](https://komarev.com/ghpvc/?username=Aishwarya-J05&color=6C63FF&style=for-the-badge&label=PROFILE+VIEWS)
+
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=120&section=footer" width="100%"/>
 </div>
