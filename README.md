@@ -1,7 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6C63FF&height=220&section=header&text=Aishwarya+Joshi&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%2FML+Engineer+%7C+Computer+Vision+%7C+RAG+%26+Agentic+AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=80&lines=Hi+there%2C+I'm+Aishwarya+Joshi+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Computer+Vision;RAG+%26+Agentic+AI+Systems+%F0%9F%A4%96" alt="Typing SVG" />
 </div>
----
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+AI+that+actually+ships+%F0%9F%9A%80;Open+to+roles+from+June+2026+%F0%9F%92%BC" alt="Subtitle" />
+</div>
+
+--->
+
 
 ## 🧠 Hello, World!
 ```python
