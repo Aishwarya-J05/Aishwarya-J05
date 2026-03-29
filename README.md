@@ -76,13 +76,14 @@ aishwarya = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aishwarya-J05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0D1117&title_color=6C63FF&icon_color=00D4FF" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya-J05&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Aishwarya-J05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aishwarya-J05&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aishwarya-J05&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=00D4FF&currStreakLabel=6C63FF" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aishwarya-J05&theme=tokyonight&hide_border=true" width="60%"/>
 </div>
 
 ---
