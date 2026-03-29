@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Building+AI+systems+that+actually+ship+🚀;Computer+Vision+%7C+RAG+%7C+Agentic+AI;From+model+training+to+production+deployment;Open+to+AI%2FML+roles+from+June+2026+💼" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6C63FF&height=220&section=header&text=Aishwarya+Joshi&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI/ML+Engineer+%7C+Computer+Vision+%7C+RAG+%26+Agentic+AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 </div>
 
 ---
