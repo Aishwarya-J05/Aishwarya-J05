@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00D4FF&height=220&section=header&text=Aishwarya%20Joshi&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=🤖%20AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20RAG%20%26%20Agentic%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6C63FF&height=220&section=header&text=Aishwarya%20Joshi&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=🤖%20AI%2FML%20Engineer%20%7C%20Computer%20Vision%20%7C%20RAG%20%26%20Agentic%20AI&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -112,5 +112,5 @@ aishwarya = {
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,100:6C63FF&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8B5CF6&height=120&section=footer" width="100%"/>
 </div>
