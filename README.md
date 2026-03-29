@@ -18,7 +18,6 @@ aishwarya = {
     "building"   : ["Computer Vision", "RAG Agents", "Agentic AI Systems"],
     "writing"    : "Medium — @aishwaryajoshi554",
     "location"   : "Bengaluru, India 🇮🇳",
-    "available"  : "June 2026 👀",
 }
 ```
 
