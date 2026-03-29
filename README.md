@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+AI+that+actually+ships+%F0%9F%9A%80;Open+to+roles+from+June+2026+%F0%9F%92%BC" alt="Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2000&pause=500&color=6C63FF&center=true&vCenter=true&width=500&lines=Building+AI+that+actually+ships+%F0%9F%9A%80;Open+to+roles+%F0%9F%92%BC" alt="Subtitle" />
 </div>
 
 
