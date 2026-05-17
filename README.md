@@ -15,7 +15,7 @@ aishwarya = {
     "role"       : "AI/ML Engineer",
     "education"  : "B.E. ECE (AI/ML) @ VTU | CGPA 9.41",
     "currently"  : "AI/ML Intern @ GlowLogics Solutions",
-    "building"   : ["Computer Vision", "RAG Agents", "Agentic AI Systems"],
+    "building"   : ["Computer Vision", "RAG Agents", "Agentic AI Systems", "ML Models"],
     "writing"    : "Medium — @aishwaryajoshi554",
     "location"   : "Bengaluru, India 🇮🇳",
 }
